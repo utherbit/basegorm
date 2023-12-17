@@ -1,8 +1,8 @@
 package main
 
 import (
-	"basegorm"
 	"context"
+	"github.com/utherbit/basegorm"
 	"gorm.io/gorm"
 )
 

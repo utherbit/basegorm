@@ -81,5 +81,4 @@ func TestOptionOrder(t *testing.T) {
 			t.Error(tx.Error)
 		}
 	}
-
 }

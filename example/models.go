@@ -1,6 +1,6 @@
 package main
 
-import "basegorm"
+import "github.com/utherbit/basegorm"
 
 type User struct {
 	basegorm.BaseModel[int]
